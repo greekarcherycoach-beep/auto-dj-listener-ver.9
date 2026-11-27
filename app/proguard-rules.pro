@@ -1,0 +1,4 @@
+-keep class androidx.media3.** { *; }
+-dontwarn androidx.media3.**
+-keep class com.journeyapps.barcodescanner.** { *; }
+-dontwarn com.google.zxing.**

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Σκοτεινό θέμα: χρώματα από το screenshot του player -->
+    <color name="page">#17171A</color>
+    <color name="card">#26262C</color>
+    <color name="field">#1C1C21</color>
+    <color name="line">#33333B</color>
+    <color name="fg">#F6F6F8</color>
+    <color name="sub">#A9A7B6</color>
+    <color name="accent">#9B5CFF</color>
+    <color name="accent_fg">#FFFFFF</color>
+    <color name="link">#42B8FF</color>
+    <color name="warn">#FF8A80</color>
+    <color name="slide">#0060DF</color>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Φωτεινό θέμα -->
+    <color name="page">#F1F0F5</color>
+    <color name="card">#FFFFFF</color>
+    <color name="field">#F4F3F8</color>
+    <color name="line">#DEDCE8</color>
+    <color name="fg">#18181D</color>
+    <color name="sub">#5D5B6B</color>
+    <color name="accent">#8A3FFC</color>
+    <color name="accent_fg">#FFFFFF</color>
+    <color name="link">#0A6FC2</color>
+    <color name="warn">#B3261E</color>
+    <color name="slide">#0060DF</color>
+    <color name="icon_bg">#080D13</color>
+</resources>
